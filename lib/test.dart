@@ -48,16 +48,6 @@ class MainPageState extends State<MainPage> {
                       }
                   ),
                 ),
-                /*new Container(
-                  child: new MaterialButton(
-                      onPressed: scan,
-                      child: Container(
-                        margin: EdgeInsets.only(top: 200),
-                        child: new Icon(Icons.add_a_photo, size: 150.0),
-                      )
-                  ),
-                  padding: const EdgeInsets.all(8.0),
-                ),*/
               ],
             ),
           )),
